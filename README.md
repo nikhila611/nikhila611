@@ -36,6 +36,9 @@ I'm passionate about clean architecture, scalable systems, and DevOps best pract
 
 - [⚡ Maven Quick Start](https://github.com/nikhila611/maven-quick-start)  
   Minimal starter project with Maven for Java learners.
+  
+- [🚀 EPAM DevOps Task: Maven + OOP](https://github.com/nikhila611/epamtaskmaven-oop)  
+  Automating build lifecycle using **Maven**, demonstrating OOP + basic DevOps integration.
 
 ---
 
